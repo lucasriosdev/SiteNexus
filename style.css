@@ -30,7 +30,7 @@ body {
     padding: 0 20px;
 }
 
-/* Navbar */
+
 .navbar {
     position: fixed;
     top: 0;
@@ -79,7 +79,7 @@ body {
     display: none;
 }
 
-/* Hero Section */
+
 .hero {
     padding: 120px 0 80px;
     text-align: center;
@@ -115,7 +115,7 @@ body {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
 }
 
-/* Services Section */
+
 .services {
     padding: 80px 0;
     background: var(--section-bg);
@@ -163,7 +163,7 @@ body {
     line-height: 1.6;
 }
 
-/* Values Section */
+
 .values {
     padding: 80px 0;
 }
@@ -214,7 +214,7 @@ body {
     left: 0;
 }
 
-/* About Section */
+
 .about {
     padding: 80px 0;
     background: var(--section-bg);
@@ -267,7 +267,7 @@ body {
     font-weight: bold;
 }
 
-/* Footer */
+
 footer {
     background: var(--text-color);
     color: white;
@@ -308,7 +308,7 @@ footer {
     opacity: 0.8;
 }
 
-/* Responsive Design */
+
 @media (max-width: 768px) {
     .nav-links {
         display: none;
